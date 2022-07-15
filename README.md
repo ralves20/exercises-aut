@@ -4,13 +4,13 @@ Below are each one of the tasks and just a quick explanation
 ### Task 1 - Automated web testing 
 In this task was created a project with the tests and this project is inside this folder, the instructions
 how to run are all on its readme file:
-> Answer >> [Running Task 1 Project](task1/task1-readme.md)
+> Answer >> [Running Task 1 Project](task1/selenium-java/task1-readme.md)
 
 
 ### Task 2 - Automation 
 In this task was created a project with the tests interacting with the iframe, using wait with iframe, and etc...
 the project is inside of the project of the task:
-> Answer >> [Running Task 2 Project](task2/task2-readme.md)
+> Answer >> [Running Task 2 Project](task2/selenium-iframe-java/task2-readme.md)
 
 ### Task 3 - There are 10 pages in same window, an image is present in any page out of ten pages in same window. How will you validate this scenario with example?
 This question was answered in a markdown document, and it is inside the folder of it's respective task (task 3)
@@ -38,7 +38,7 @@ To solve this exercise, a simple application was created for it, and it is insid
 
 ### Task 9 -How to read Excel data through hash map?
 This question was answered in a Java file and was also created a markdown document for it, and both of those files are inside the folder of it's respective task (task 9)
-> Answer >> [Code With of Task 9 that is Excel to HashMap](task9/task9-readme.md)
+> Answer >> [Code With of Task 9 that is Excel to HashMap](task9/excel-map-java/task9-readme.md)
 
 ### Task 10 -While running script, you have observed "NoSuchElementException". But you have taken the correct locator(ID, XPATh or CSS). Still, you are facing the same issue. What might be the reason?
 This question was answered with all the proper details in a markdown document, and it is with all the information necessary in the task10 folder
