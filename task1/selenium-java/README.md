@@ -2,7 +2,6 @@
 This is a sample project to demonstrate what is page object model framework  and how it can used in selenium (This is only one way of implementing page object framework ).
 
 **junit** is used as test framework.
-Sample application used for automation is [http://accountsdemo.herokuapp.com/](http://accountsdemo.herokuapp.com/).
 
 ### Dependency
 1. Java
@@ -15,8 +14,8 @@ Sample application used for automation is [http://accountsdemo.herokuapp.com/](h
 
 ### Steps to clone execute the tests
 ```
-git clone https://github.com/reachbharathan/Java-Junit-POM-AccountsDemo.git
-cd Selenium-Page-Object-Model-Junit-Java
+git clone
+cd exercises-aut
 mvn clean test
 ```
 
